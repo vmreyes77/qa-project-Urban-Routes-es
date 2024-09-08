@@ -28,14 +28,14 @@ para esto tenemos la función ***retrieve_phone_code()***, que al ejecutarla nos
 2. Luego tenemos que seleccionar un método de pago. Al hacer click en este se nos ofrece la opción de ingresar una
 tarjeta de crédito. Hacemos click en "agregar tarjeta" y necesitaremos ingresar el número (Ej. "1234 5678 9100") y el
 código de seguridad de la misma (Ej. "111").
-Luego tenemos que deselcionar el campo del código de la tarjeta para presionar "Agregar".
+Luego tenemos que deselccionar el campo del código de la tarjeta para poder presionar el botón "Agregar".
 
 
-3. En el campo opcional "mensaje para el conductor..." podemo dejar un mensaje para que el conductor designado lo tenga
-en cuenta. En esta prueba le hemos dejado uno.
+3. En el campo opcional "mensaje para el conductor...", podemo dejar un mensaje para que el conductor designado lo tenga
+en cuenta. En esta prueba le hemos dejado un mensaje.
 
 
-4. Dentro de los "Requisitos del pedido" hemos agregado un "Manta y pañuelo", y hemos agregado 2 unidades de "helado".
+4. Dentro de los "Requisitos del pedido" hemos agregado una "Manta y pañuelo", y hemos agregado 2 unidades de "helado".
 
 
 5. Por último hacemos click en el botón de reserva donde se nos lleva automáticamente a la ventana de "resumen del pedido",
