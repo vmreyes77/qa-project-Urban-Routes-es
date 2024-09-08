@@ -15,7 +15,7 @@ Específicamente hemos probado lo siguiente:
 * Y que el pedido termine el proceso correctamente una vez hecha la reserva
 
 Para realizar las pruebas primero hay que ingresar a la página de Urban Routes adquiriendo una URL del servidor, luego
-se llenan los campos "Desde" y "Hasta" con direcciones válidas (Ej. "East 2nd Street, 601" y "1300 1st St". Y hacemos
+se llenan los campos "Desde" y "Hasta" con direcciones válidas (Ej. "East 2nd Street, 601" y "1300 1st St"). Y hacemos
 click en el botón "Pedir un taxi".
 
 Seleccionamos la tarifa "Comfort" y procedemos a llenar los campos necesarios para hacer el pedido:
