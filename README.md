@@ -22,7 +22,7 @@ Seleccionamos la tarifa "Comfort" y procedemos a llenar los campos necesarios pa
 
 1. Al hacer click en el campo "Número de teléfono", procedemos a ingresar un número telefónico (Ej. +1 123 123 12 12) 
 en el campo designado y hacemos click en el botón siguiente. En la ventana emergente se nos pide ingresar un código SMS,
-para esto tenemos la función ***retrieve_phone_code()***, que al ejecutarla nos ofrese este código.
+para esto tenemos la función ***retrieve_phone_code()***, que al ejecutarla nos ofrece este código.
 
 
 2. Luego tenemos que seleccionar un método de pago. Al hacer click en este se nos ofrece la opción de ingresar una
